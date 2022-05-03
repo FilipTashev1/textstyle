@@ -31,6 +31,8 @@ h3{
     max-width: 200px;
     min-width: 200px;
     text-align: center;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
 
 .color1{
