@@ -63,7 +63,7 @@ h3{
 }
 
 .font{
-    display: inline-block;
+    display: inline-flex;
     font-size: 40px;
     margin-left: 50px;
 }
